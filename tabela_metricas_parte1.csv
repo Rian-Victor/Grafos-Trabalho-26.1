@@ -1,0 +1,16 @@
+Métrica,Valor,Calculado?
+Número de vértices,"27,400",Sim
+Número de arestas,"352,504",Sim
+Grau mínimo,1,Sim
+Grau máximo,2468,Sim
+Grau médio,25.6950,Sim
+Densidade,0.00046955,Sim
+Número de WCCs,1,Sim
+Tamanho da maior WCC,"27,400",Sim
+Número de SCCs,"19,716",Sim
+Tamanho da maior SCC,"7,464",Sim
+"Diâmetro (estimado, SCC dirigida)",31,Sim
+Raio (estimado),5,Sim
+Comprimento médio dos caminhos (estimado),9.7640,Sim
+Coeficiente de clusterização médio,0.313915,Sim
+Número de triângulos,"1,478,698",Sim

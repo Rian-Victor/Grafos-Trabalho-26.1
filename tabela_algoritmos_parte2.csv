@@ -1,0 +1,10 @@
+Algoritmo,Complexidade Teórica,Média (ms),Distrib. IC
+BFS,O(V+E),57.0805,Normal(n≥30)
+DFS,O(V+E),37.7926,Normal(n≥30)
+Eulerianidade,O(V+E),1481.0092,Normal(n≥30)
+Dijkstra,O((V+E)logV),89.1829,Normal(n≥30)
+Bellman-Ford*,O(V·E),148.6901,t-Student(n<30)
+Floyd-Warshall**,O(V³),14771.89,t-Student(n<30)
+Tarjan,O(V+E),234.0350,Normal(n≥30)
+Prim,O(E logV),1358.94,Normal(n≥30)
+Kruskal,O(E logE),1331.15,Normal(n≥30)
